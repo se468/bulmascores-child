@@ -1,4 +1,4 @@
-Child theme for [Bulmascores]<https://github.com/se468/Bulmascores>.
+Child theme for [Bulmascores](https://github.com/se468/Bulmascores).
 
 1. Follow instructions to set up Bulmascores.
 1. Download this theme as zip and import from your Wordpress admin.
