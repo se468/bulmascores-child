@@ -1,7 +1,19 @@
 @import "~bulma/bulma";
 
 
-@import "bulmascores/theme.scss"
+@import "bulmascores/theme.scss";
+
+/*
+Optional scss files for styling - delete these files if you don't need them: 
+Following the SMACSS-inspired structure from Matt Staffer as shared in here: 
+http://vanseodesign.com/css/sass-directory-structures/
+*/
+@import "base";
+@import "layout";
+@import "modules";
+@import "other";
+@import "shame";
+
 
 /* 
 Add your custom css here 
