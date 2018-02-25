@@ -1,7 +1,7 @@
 {
-  "name": "bulmascores",
+  "name": "bulmascores-child",
   "version": "0.0.1",
-  "description": "Bulmascores",
+  "description": "Child theme for Bulmascores",
   "main": "index.js",
   "scripts": {
     "dev": "webpack",
