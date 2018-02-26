@@ -3,7 +3,7 @@ function my_theme_enqueue_styles() {
 
     $parent_style = 'parent-style'; 
 
-    //wp_enqueue_style( $parent_style, get_template_directory_uri() . '/dist/app.css' );
+    wp_enqueue_style( $parent_style, get_template_directory_uri() . '/dist/app.css' );
     wp_enqueue_style( 'child-style',
         get_stylesheet_directory_uri() . '/dist/app.css',
         array( $parent_style ),
